@@ -1,10 +1,10 @@
 >**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
 
-# Date created
+### Date created
 Date of project creation: 3-JUN-2023
 Date of this file: 4-JUN-2023
 
-# Explore US Bikeshare Data
+### Explore US Bikeshare Data
 
 Description: I have written code to provide the following information according to an appropriate filter:
 
@@ -31,11 +31,10 @@ Description: I have written code to provide the following information according 
     -counts of each gender (only available for NYC and Chicago)
     -earliest, most recent, most common year of birth (only available for NYC and Chicago)
 
-# Files used
-Files used: 
-Python program: bikeshare.py
-CSV-files: chicago.csv, new_york_city.csv, washington.csv
+### Files used
+-Python program: bikeshare.py
+-CSV-files: chicago.csv, new_york_city.csv, washington.csv
 
-# Credits
+### Credits
 no credits so far :grinning:
 
