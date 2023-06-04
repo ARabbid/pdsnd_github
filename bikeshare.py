@@ -286,6 +286,8 @@ def f_day_converter2(dayname):
 
                         Keyword arguments:
                         dayname -- abbreviated day name
+    Returns:
+        (str) weekday_name: day of week (Monday, ...)
                         """
     weekday_name = "false"
     if dayname == "Dummy":
