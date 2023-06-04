@@ -256,6 +256,8 @@ def f_day_converter(dayname):
 
                     Keyword arguments:
                     dayname -- abbreviated day name
+    Returns:
+        (int) day_number: 0 (Monday) ... 7 (Sunday)
                     """
     day_number = 8
     if dayname == "Dummy":
